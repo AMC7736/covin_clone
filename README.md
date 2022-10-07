@@ -1,2 +1,2 @@
 # covin_clone
-to see my website amc7736-covinclone.netlify.app
+to see my website https://amc7736-covinclone.netlify.app/
