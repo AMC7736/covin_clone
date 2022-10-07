@@ -1,2 +1,2 @@
 # covin_clone
-to see my website https://tangerine-dusk-ba1f27.netlify.app
+to see my website amc7736-covinclone.netlify.app
